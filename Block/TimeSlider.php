@@ -7,7 +7,6 @@
 namespace MageWorx\ExampleConfig\Block;
 
 use Magento\Framework\Data\Form\Element\AbstractElement;
-use MageWorx\ShippingRules\Model\Rule;
 
 /**
  * Class TimeSlider
